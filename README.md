@@ -98,8 +98,8 @@ for file in file_names:
 
 ```
 # Result
-          ![data1](https://github.com/user-attachments/assets/e3797309-9356-4a5f-b5c0-e79f6bdbc9b1)
-          ![data2](https://github.com/user-attachments/assets/6c97e443-74e6-4662-8534-7e44c03329f4)
+![data1](https://github.com/user-attachments/assets/e3797309-9356-4a5f-b5c0-e79f6bdbc9b1)
+![data2](https://github.com/user-attachments/assets/6c97e443-74e6-4662-8534-7e44c03329f4)
           ![data3](https://github.com/user-attachments/assets/3307d280-f33f-4c55-9ebc-9fb5e94575c7)
           ![data4](https://github.com/user-attachments/assets/0a561eae-4682-42a2-8f46-be71868ae786)
           ![data5](https://github.com/user-attachments/assets/a72ecd50-3346-4d6d-9a44-1d5e3eab1495)
